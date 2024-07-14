@@ -10,9 +10,6 @@ Welcome to the JavaScript Tutorial section of the repository! This part contains
 
 To get started with the JavaScript exercises, clone the repository to your local machine:
 
-```bash
-git clone https://github.com/your-username/javascript-tutorials.git
-```
 ## JavaScript Setup
 - Ensure you have a web browser installed (e.g., Google Chrome, Firefox).
 - Use any text editor or IDE (e.g., Visual Studio Code, Sublime Text) to open the JavaScript files.
